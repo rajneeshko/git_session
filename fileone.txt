@@ -1,3 +1,5 @@
 newly added file to be stored in git.
 
 Additonal changes.
+
+Pushing changes without adding to staging area.
